@@ -19,7 +19,7 @@ Before running the frontend, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/agify/agify-frontend.git
+   git clone https://github.com/aliyevroyal/user-react-app
    ```
 
 2. Navigate to the frontend directory.
